@@ -8,11 +8,11 @@ document.getElementById('searchForm').addEventListener('submit', function (event
 
     // Sample data: In a real application, you might fetch this from an API or a database
     const dresses = [
-        { name: 'Red Dress', description: 'Casual Summer', price: 50, imageUrl: 'https://via.placeholder.com/200' },
-        { name: 'Blue Evening Gown', description: 'Formal Event', price: 150, imageUrl: 'https://via.placeholder.com/200' },
-        { name: 'Black Party Dress', description: 'Night Out', price: 80, imageUrl: 'https://via.placeholder.com/200' },
-        { name: 'Green Summer Dress', description: 'Casual Summer', price: 45, imageUrl: 'https://via.placeholder.com/200' },
-        { name: 'White Wedding Dress', description: 'Wedding', price: 500, imageUrl: 'https://via.placeholder.com/200' }
+        { name: 'Red Dress', description: 'Casual Summer', price: 1500, imageUrl: 'https://www.myntra.com/dresses/stylecast/stylecast-red-shoulder-straps-mini-bodycon-dress/24541592/buy' },
+        { name: 'Blue Evening Gown', description: 'Formal Event', price: 2500, imageUrl: 'https://www.myntra.com/dresses/stylecast/stylecast-navy-blue-v-neck-fit--flare-maxi-dress/29505018/buy' },
+        { name: 'Black Party Dress', description: 'Night Out', price: 3000, imageUrl: 'https://www.myntra.com/dresses/traquila/traquila-bodycon-maxi-dress/31734225/buy' },
+        { name: 'Green Crochet Top', description: 'Casual Summer', price: 450, imageUrl: 'https://www.myntra.com/tops/cover+story/cover-story-green-pure-cotton-crochet-semi-sheer-cropped-top/14775820/buy' },
+        { name: 'Brown Skirt', description: 'picnic', price: 500, imageUrl: 'https://littleboxindia.com/products/high-waist-ruched-ruffle-chocolate-brown-skirt?variant=47838496948511&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorCsHVLPpIVsL4cv2Dd0AbQ7NpFk4u__RQop0Fdpbad-9Fv1L3ylmg' }
     ];
 
     // Filter dresses based on the search criteria
