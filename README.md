@@ -84,7 +84,7 @@ For Hardware:
 
 
 # Additional Demos
-file:///C:/Users/meena/tink-her-hack-databaes/welcome.html
+///C:/Users/meena/tink-her-hack-databaes/welcome.html
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
