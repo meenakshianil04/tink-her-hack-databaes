@@ -14,7 +14,7 @@
 []
 
 ### Project Description
-[.]
+[This project helps users find and compare dresses from multiple e-commerce platforms in one place, offering filters for price, size, and style to simplify online shopping]
 
 ### The Problem statement
 [The ridiculous problem we're solving is the overwhelming task of hunting for the perfect dress across countless websites, getting lost in tabs, and wasting time switching between platforms. Our solution lets users instantly compare dresses from multiple brands in one place, making online shopping feel easy]
