@@ -1,31 +1,30 @@
-# [Project Name] 🎯
+# [DRESS FINDER] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [DATABAES]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Meenakshi Anil] - [LBSITW,Trivandrum]
+- Member 2: [Neeharika S Gopan] - [LBSITW,Trivandrum]
+- Member 3: [Adithya S S] - [LBSITW,Trivandrum]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[]
 
 ### Project Description
-[2-3 lines about what your project does]
+[.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
-
+[The ridiculous problem we're solving is the overwhelming task of hunting for the perfect dress across countless websites, getting lost in tabs, and wasting time switching between platforms. Our solution lets users instantly compare dresses from multiple brands in one place, making online shopping feel easy]
 ### The Solution
-[How are you solving it? Keep it fun!]
+[We’re solving it by aggregating dress data from multiple e-commerce platforms, allowing users to easily compare options, filter by preferences, and find the perfect dress without hopping between sites]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [CSS,JAVASCRIPT,HTML]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -47,14 +46,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](https://1drv.ms/i/c/523541989487f07c/EZapCnrwxNdGgabAd41EPHEB9sZOue3OUdf81tll9JQqxQ?e=mZYaGn)
+Welcome page of the website.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](https://1drv.ms/i/c/523541989487f07c/EUznHc8tyhdFlWXvMWArpkQBUIMJseVbe_Cpq56WMnjOMg?e=2INdYS)
+Home page of the website
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](https://1drv.ms/i/c/523541989487f07c/ERIw0QeyOkJCic-8PCbdtLoBmYSZ5ggaFX1o5BZeee8Ofg?e=6HstcD)
+Shows results after searching for a dress
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
