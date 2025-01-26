@@ -11,7 +11,7 @@
 - Member 3: [Adithya S S] - [LBSITW,Trivandrum]
 
 ### Hosted Project Link
-[]
+[file:///C:/Users/meena/tink-her-hack-databaes/welcome.html]
 
 ### Project Description
 [This project helps users find and compare dresses from multiple e-commerce platforms in one place, offering filters for price, size, and style to simplify online shopping]
@@ -25,9 +25,6 @@
 ### Technologies/Components Used
 For Software:
 - [CSS,JAVASCRIPT,HTML]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
 
 For Hardware:
 - [List main components]
@@ -84,7 +81,7 @@ For Hardware:
 ### Project Demo
 # Video
 [https://1drv.ms/v/c/523541989487f07c/EWZhECn1i6hOrlWY5a7Ld04BD4mu8yQVBiMlAaX34sEb7w?e=bIEZqF]
-*Explain what the video demonstrates*
+
 
 # Additional Demos
 [Add any extra demo materials/links]
